@@ -10,8 +10,8 @@
 </div>
 
 
-<div align="center"><br/><br/><br/>
-<br><p align="centre" style="font-size:50px; color:#6DB3FFFF"><b>< Technologies ></b></p>  
+<div align="center" style="font-size:50px; color:#6DB3FFFF"><br/><br/><br/>
+<br><p align="centre"><b>< Technologies ></b></p>  
 </p> 
 <br>
 </div>
