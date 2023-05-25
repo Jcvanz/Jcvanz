@@ -11,7 +11,7 @@
 
 
 <div align="center"><br/><br/><br/>
-<br><p align="centre"><b style="font-size:30px; color:#6DB3FFFF">< Technologies ></b></p>  
+<br><p align="centre"><b style="font-size:50px; color:#6DB3FFFF">< Technologies ></b></p>  
 </p> 
 <br>
 </div>
