@@ -10,7 +10,7 @@
 
 
 <div align="center"><br/><br/>
-<br><p align="centre"><b>< Technologies ></b></p>  
+<br><p align="centre" font="32px"><b>< Technologies ></b></p>  
 </p> 
 <br>
 </div>
