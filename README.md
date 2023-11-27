@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=0040ff" alt="">
-  <img src="https://img.shields.io/badge/Age-20-0040ff" />
-  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-0040ff" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-0040ff" />
+  <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=00bfff" alt="">
+  <img src="https://img.shields.io/badge/Age-20-00bfff" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-00bfff" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-00bfff" />
 </p>
 
 <p align="center">
