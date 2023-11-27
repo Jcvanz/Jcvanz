@@ -21,6 +21,9 @@
   <a href="https://www.instagram.com/juliocvanz/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta Badge">
   </a>
+   <a href="https://portfoliojuliovanz.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)" alt="Portfolio Badge">
+  </a>
 </p>
 
 <h2 align="left">Tecnologias</h2>
