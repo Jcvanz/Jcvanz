@@ -34,15 +34,15 @@
   <tr align="center">
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
     </td>
      <td align="center" width="96">
       <a>
