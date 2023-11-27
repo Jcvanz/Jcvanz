@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&width=100%&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&color=6DB3FFFF&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Julio+Cesar;I´m+20+years+old;I´m+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=00bfff" alt="">
-  <img src="https://img.shields.io/badge/Age-20-00bfff" />
-  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-00bfff" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-00bfff" />
+  <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=808080" alt="">
+  <img src="https://img.shields.io/badge/Age-20-808080" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-808080" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-808080" />
 </p>
 
 <p align="center">
@@ -49,4 +49,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcvanz&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&width=100%&section=footer" />
