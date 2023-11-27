@@ -56,21 +56,20 @@
       </a>
       <br>CSS
     </td>
-  </tr>
-  <tr align="center">
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
-  </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
+  </tr>
+  <tr align="center">
    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
