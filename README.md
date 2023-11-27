@@ -33,4 +33,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcvanz&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B2E71FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
