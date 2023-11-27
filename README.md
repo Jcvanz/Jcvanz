@@ -3,6 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&color=6DB3FFFF&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Julio+Cesar;I´m+20+years+old;I´m+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=4cae4c" alt="">
+  <img src="https://img.shields.io/badge/Age-23-31b0d5" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-e69500" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-c9302c" />
+</p>
 <div align="center"><br/> 
 <a href="https://www.instagram.com/jc.vanz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/julio-cesar-cioato-vanz-0307a324a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
