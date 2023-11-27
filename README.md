@@ -103,7 +103,7 @@
     </td>
   </tr>
 </table>
-
+<h2></h2>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jcvanz&show_icons=true&count_private=true&hide_border=true&title_color=cd853f&icon_color=c0c0c0&text_color=c0c0c0&bg_color=0E2848E6" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcvanz&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" />
