@@ -38,12 +38,6 @@
       </a>
       <br>Java
     </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
@@ -55,19 +49,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
       </a>
       <br>Node
-    </td>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
     </td>
   <td align="center" width="96">
       <a>
