@@ -8,16 +8,24 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=4cae4c" alt="">
-  <img src="https://img.shields.io/badge/Age-20-31b0d5" />
-  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-e69500" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-c9302c" />
+  <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=0040ff" alt="">
+  <img src="https://img.shields.io/badge/Age-20-0040ff" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-0040ff" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-0040ff" />
 </p>
-<div align="center"><br/> 
-<a href="https://www.instagram.com/jc.vanz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/julio-cesar-cioato-vanz-0307a324a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-          badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://portfoliojuliovanz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"       target="_blank"></a>
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/juliocesarvanz">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.instagram.com/julioc/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta Badge">
+  </a>
+   <a href="https://twitter.com/EduDegan">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge">
+  </a>
+</p>
+
 
 
 <div align="center"><br/><br/>
