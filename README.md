@@ -23,13 +23,7 @@
   </a>
 </p>
 
-
-
-<div align="center"><br/><br/>
-<br><p align="centre" font="32px"><b>< Technologies ></b></p>  
-</p> 
-<br>
-</div>
+<h2 align="left">Tecnologias</h2>
 
 <div style="display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
