@@ -16,13 +16,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/www.linkedin.com/in/juliocesarvanz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=0040ff" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.instagram.com/julioc/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=0040ff" alt="Insta Badge">
-  </a>
-   <a href="https://twitter.com/EduDegan">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=0040ff" alt="Twitter Badge">
+  <a href="https://www.instagram.com/juliocvanz/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta Badge">
   </a>
 </p>
 
