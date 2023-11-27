@@ -4,6 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&color=6DB3FFFF&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Julio+Cesar;I´m+20+years+old;I´m+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://media.giphy.com/media/fxqzWdjvacWEie6gho/giphy.gif?cid=790b7611bwiq5biywicmxk5xaucigs6nkajk2qwrcmwyxr5t&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="150"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=4cae4c" alt="">
   <img src="https://img.shields.io/badge/Age-20-31b0d5" />
   <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-e69500" />
