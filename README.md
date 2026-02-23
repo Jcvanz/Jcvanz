@@ -62,12 +62,24 @@
     </td>
     <td align="center" width="96">
       <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="javascript" />
+      </a>
+      <br>PHP
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
-  </tr>
-  <tr align="center">
    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
@@ -92,7 +104,9 @@
       </a>
       <br>Mongodb
     </td>
-  <td align="center" width="96">
+  </tr>
+  <tr align="center">
+    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
       </a>
