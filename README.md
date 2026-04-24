@@ -38,9 +38,9 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJs" />
       </a>
-      <br>Java
+      <br>NextJS
     </td>
      <td align="center" width="96">
       <a>
