@@ -98,8 +98,6 @@
       </a>
       <br>Mysql
     </td>
-  </tr>
-  <tr align="center">
     <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
@@ -107,6 +105,7 @@
       <br>Git
     </td>
   </tr>
+  
 </table>
 <h2></h2>
 <div align="center">  
