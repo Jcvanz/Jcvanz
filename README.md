@@ -88,21 +88,15 @@
     </td>
   <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="postgresql" />
       </a>
-      <br>Firebase
+      <br>PostgreSQL
     </td>
   <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>Mysql
-    </td>
-  <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
-      </a>
-      <br>Mongodb
     </td>
   </tr>
   <tr align="center">
