@@ -17,13 +17,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliocesarvanz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+
   <a href="https://www.instagram.com/juliocvanz/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta Badge">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-   <a href="https://portfolio-julio-cesar.up.railway.app/">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white">
+
+  <a href="https://SEU-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
 
