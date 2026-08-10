@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
 
-  <a href="https://portifolio-julio.fly.dev/">
+  <a href="https://portifolio-julio-steel.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
