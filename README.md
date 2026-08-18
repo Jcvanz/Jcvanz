@@ -113,9 +113,9 @@
   
 </table>
 <h2></h2>
-<div align="center">  
-  <img width="49%" height="190px" src="https://github-stats-alpha.vercel.app/api?username=Jcvanz&show_icons=true&count_private=true&hide_border=true&title_color=cd853f&icon_color=c0c0c0&text_color=c0c0c0&bg_color=0E2848E6" alt="github stats" />
-  <img width="41%" height="190px" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Jcvanz&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" alt="top languages" />
-</div>
+<p align="center">
+  <img width="49%" height="190px" src="https://github-readme-stats-fast.vercel.app/api?username=Jcvanz&show_icons=true&hide_border=true&title_color=cd853f&icon_color=c0c0c0&text_color=c0c0c0&bg_color=0E2848E6" alt="GitHub Stats" />
+  <img width="41%" height="190px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jcvanz&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" alt="Top Languages" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&width=100%&section=footer" />
