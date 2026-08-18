@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jcvanz&style=circle&color=0d0d0d" alt="">
-  <img src="https://img.shields.io/badge/Age-22-0d0d0d" />
+  <img src="https://img.shields.io/badge/Age-23-0d0d0d" />
   <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-0d0d0d" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-0d0d0d" />
 </p>
@@ -114,9 +114,8 @@
 </table>
 <h2></h2>
 <div align="center">  
-   <img width="49%" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jcvanz&show_icons=true&count_private=true&hide_border=true&title_color=cd853f&icon_color=c0c0c0&text_color=c0c0c0&bg_color=0E2848E6" alt="GitHub Stats" />
-  <img width="41%" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jcvanz&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" alt="Top Languages" />
-
+  <img width="49%" height="190px" src="https://github-stats-alpha.vercel.app/api?username=Jcvanz&show_icons=true&count_private=true&hide_border=true&title_color=cd853f&icon_color=c0c0c0&text_color=c0c0c0&bg_color=0E2848E6" alt="github stats" />
+  <img width="41%" height="190px" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Jcvanz&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" alt="top languages" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&width=100%&section=footer" />
