@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Julio%20Cesar%20Vanz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descSize=18&descAlignY=58&descColor=6DB3FF" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB3FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Fullstack;Focado+em+React%2C+Next.js%2C+TypeScript+%26+Tailwind;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(FURB);Objetivo%3A+Engenheiro+de+Software+(C%23+%2F+.NET)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB3FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Fullstack;Focado+em+React%2C+Next.js%2C+TypeScript+%26+Tailwind;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(FURB)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -34,7 +34,6 @@
 - 🎓 Cursando **Bacharelado em Ciência da Computação** na **FURB** (7º semestre).
 - 💼 Atuando no desenvolvimento de interfaces modernas, performáticas e escaláveis com foco em **React, Next.js, TypeScript e Tailwind CSS**.
 - 🤖 Utilizo ferramentas de **IA de ponta** (*Cursor, GitHub Copilot, Claude*) integradas ao fluxo diário para máxima qualidade e produtividade de código.
-- 🎯 **Objetivo Profissional:** Evoluir e consolidar minha carreira como **Engenheiro de Software**, com foco em arquitetura de sistemas robustos trabalhando com **C# e .NET**.
 
 ---
 
